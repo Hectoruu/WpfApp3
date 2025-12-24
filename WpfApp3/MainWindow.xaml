@@ -5,7 +5,7 @@
     <Grid>
         <Button Content="Launch ConsoleApp1"
                 Width="200"
-                Height="500"
+                Height="5000"
                 Click="Button_Click"
                 HorizontalAlignment="Center"
                 VerticalAlignment="Center"/>
